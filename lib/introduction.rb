@@ -1,11 +1,11 @@
 def introduction (name = 'Cassie')
   puts "Hi, my name is #{name}."
 end
-introduction 
 
 def introduction_with_language (name, langauge)
   puts "Hi, my name is #{name} and I am learning to program in #{langauge}."
 end
+introduction_with_language
 
 
 
